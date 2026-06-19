@@ -7,12 +7,12 @@ when a Google Form is submitted, eliminating manual data entry.
 
 ## How It Works
 1. Applicant submits Google Form
-![alt text](image-url)
+<img width="1542" height="967" alt="Image" src="https://github.com/user-attachments/assets/0c24892e-7467-4760-8c02-82c713a232be" />
 2. Zapier trigger detects new form response
 ![alt text](image-url)
 3. Data is mapped and transferred to a Google Sheets log
 ![alt text](image-url)
-4. Email with Job Application info is sent to user
+3. Email with Job Application info is sent to user
 ![alt text](image-url)
 
 ## Problem Solved
