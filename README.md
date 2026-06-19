@@ -23,8 +23,8 @@ placeholder variables with Zapier's built-in field picker to correctly map
 form responses to their destination columns.
 
 ## Designed For Extensibility
-Modular structure allows adding steps (email notifications, status tracking, 
-reporting) without rebuilding the integration.
+Modular structure allows adding steps ( status tracking, 
+reporting dashboards or Slack notifications) without rebuilding the integration.
 
 ## Tools Used
 - Zapier
