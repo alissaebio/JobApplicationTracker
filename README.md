@@ -3,7 +3,7 @@
 ## Overview
 A Zapier workflow that automatically logs job applications to Google Sheets 
 when a Google Form is submitted, eliminating manual data entry.
-![alt text](image-url)
+<img width="1323" height="810" alt="Image" src="https://github.com/user-attachments/assets/af9989dd-34c7-45f9-8ea5-49ddbf36d3f5" />
 
 ## How It Works
 1. Applicant submits Google Form
