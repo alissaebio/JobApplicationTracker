@@ -14,7 +14,7 @@ when a Google Form is submitted, eliminating manual data entry.
 <img width="785" height="797" alt="Image" src="https://github.com/user-attachments/assets/efde0502-e1ef-4713-a5e4-2f0ed6325b75" />
 
 4. Email with Job Application info is sent to user
-![alt text](image-url)
+<img width="1918" height="915" alt="Image" src="https://github.com/user-attachments/assets/c702f08b-4917-4549-a80d-5efba22003c4" />
 
 ## Problem Solved
 During development, I diagnosed and resolved failed field mappings that caused 
